@@ -441,6 +441,7 @@ For issues, questions, or suggestions:
 
 ## 👨‍💻 Author
 
+Priyanshu Kumar,
 Built with ❤️ by the AI Interview Preparation Team
 
 ---
